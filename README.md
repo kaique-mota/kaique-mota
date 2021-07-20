@@ -3,10 +3,10 @@
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-- 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
-- 🧠 Currently learning about computational neuroscience and artificial intelligence
-- 👩‍💻 Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🧪 In search of neuroscience and decision intelligence research opportunities
+- 📚 
+- 🧠 
+- 👩‍💻 
+- 🧪 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
